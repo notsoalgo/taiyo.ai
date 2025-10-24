@@ -1,0 +1,5 @@
+beautifulsoup4>=4.12
+requests>=2.31
+pandas>=2.2
+jsonschema>=4.19
+python-dateutil>=2.8
